@@ -1,14 +1,10 @@
-<div align="center">
-
 # 🎫 Queue Management System
 
-![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![STL](https://img.shields.io/badge/STL-queue%20%7C%20stack-0078D4?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Paradigm-OOP-2ea44f?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-2ea44f?style=for-the-badge)
 
 > A **C++ OOP Queue & Ticket Management System** — issue tickets, track waiting clients, estimate serve times, and visualize queue flow in real time.
-
-</div>
 
 ---
 
@@ -28,7 +24,7 @@
 
 ---
 
-## 📖 About  :
+## 📖 About :
 
 **Queue Management System** is a C++ console application that simulates a real-world ticket-based queue system — the kind you see in banks, clinics, and government offices. Clients receive numbered tickets and are served in **FIFO** order, with live tracking of wait times and queue state.
 
@@ -204,9 +200,9 @@ MyQueue.PrintAllTickets();        // all remaining ticket slips
 
 | Layer | Detail |
 |---|---|
-| **Language** | C++ 17 |
+| **Language** | C++ |
 | **Data Structures** | `std::queue` (FIFO serving), `std::stack` (LTR reversal) |
-| **Paradigm** | Object-Oriented Programming · Nested Classes · Encapsulation |
+| **OOP** | Object-Oriented Programming · Nested Classes · Encapsulation |
 | **Utilities** | `clsDate` — custom date/time helper for ticket timestamps |
 | **I/O** | Console (`std::cout`) |
 
@@ -217,7 +213,3 @@ MyQueue.PrintAllTickets();        // all remaining ticket slips
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
-
-<div align="center">
-  Made with ❤️ and C++
-</div>
