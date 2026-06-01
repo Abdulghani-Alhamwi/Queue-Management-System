@@ -4,7 +4,7 @@
 ![STL](https://img.shields.io/badge/STL-queue%20%7C%20stack-0078D4?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-2ea44f?style=for-the-badge)
 
-A **C++ OOP Queue & Ticket Management System** — issue tickets, track waiting clients, estimate serve times, and visualize queue flow in real time.
+A **C++ Queue Management System** — issue tickets, track waiting clients, estimate serve times, and visualize queue flow in real time.
 
 ---
 
