@@ -1,4 +1,4 @@
-# 🎟️ Queue Management System
+# 🎫 Queue Management System
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![STL](https://img.shields.io/badge/STL-queue%20%7C%20stack-0078D4?style=for-the-badge)
