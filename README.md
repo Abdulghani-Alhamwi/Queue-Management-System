@@ -5,7 +5,6 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![STL](https://img.shields.io/badge/STL-queue%20%7C%20stack-0078D4?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Paradigm-OOP-2ea44f?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 > A **C++ OOP Queue & Ticket Management System** — issue tickets, track waiting clients, estimate serve times, and visualize queue flow in real time.
 
